@@ -33,4 +33,4 @@ alias egrep='egrep --color=auto'
 # PS1='\e[1;36m\u@\h: \e[1;33m\W\e[1;33m\$ '
 PS1='\[\e[1;36m\]\u@\h: \[\e[1;32m\]\W\$\[\e[0m\] '
 # PS1='\[\033[38;5;1m\]some red text\[\033[0m\]\$ '
-LS_COLORS='di=1;33' ; export LS_COLORS
+LS_COLORS='di=1;34' ; export LS_COLORS
